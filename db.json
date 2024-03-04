@@ -41,6 +41,72 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 15
+    },
+    {
+      "name": "King",
+      "image": "https://www.wellplated.com/wp-content/uploads/2016/03/Black-Bean-Vegan-Burger-Recipe-500x375.jpg",
+      "price": "78",
+      "id": 16
+    },
+    {
+      "name": "King",
+      "image": "https://www.wellplated.com/wp-content/uploads/2016/03/Black-Bean-Vegan-Burger-Recipe-500x375.jpg",
+      "price": "78",
+      "id": 17
+    },
+    {
+      "name": "jhbk",
+      "image": "kjnjk",
+      "price": "99",
+      "id": 18
     }
   ]
 }
